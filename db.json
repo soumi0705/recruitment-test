@@ -1,0 +1,95 @@
+{
+  "users": [{ "id": 1, "username": "user1", "password": "password1" }],
+  "items": [
+    {
+      "title": "Assignment 1",
+      "identifier": "c01cf1e6-ea0b-4b35-86b6-56a6de0f9c6c",
+      "id": "_123_1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non velit vitae ipsum accumsan volutpat. Mauris non dolor ut lectus tincidunt eleifend eget eget lorem. Duis convallis leo eu sem aliquet, id lacinia nulla pharetra."
+    },
+    {
+      "title": "Assignment 2",
+      "identifier": "7dc0cc91-891b-402b-b3a1-47c3bb8b6112",
+      "id": "_123_2",
+      "description": "Vestibulum fringilla mauris eu posuere sollicitudin. Sed interdum dictum erat eget maximus. Nam faucibus varius risus, quis feugiat ipsum varius nec. Sed efficitur nec mi vel dapibus. Donec a felis justo. Sed lacinia elit vel ipsum vestibulum, id fermentum odio fermentum. Etiam in lacinia nulla. Duis volutpat, arcu vitae consectetur euismod, sapien orci varius erat, nec tincidunt arcu ligula a arcu. Fusce vitae odio a ipsum tincidunt elementum. Aliquam non vestibulum eros."
+    },
+    {
+      "title": "Assignment 3",
+      "identifier": "b1b69f7b-5f05-4f0e-92de-0c38a4f62bf6",
+      "id": "_123_3",
+      "description": "Phasellus vel arcu nec massa venenatis pharetra. Sed viverra varius justo, ut interdum sapien tincidunt ut. Etiam eget malesuada metus. Ut dictum risus nec libero consequat, a facilisis neque gravida. Nulla facilisi. Nullam ac tristique metus. Integer iaculis elementum volutpat."
+    },
+    {
+      "title": "Assignment 4",
+      "identifier": "21a8a97c-c3a7-4919-8fda-3f4f3b2a2b01",
+      "id": "_123_4",
+      "description": "Suspendisse vel dui a libero dapibus cursus id non dui. Etiam ut elit ac metus facilisis sagittis id eu massa. Aenean cursus, dolor vel fringilla tristique, ipsum elit ullamcorper libero, ac iaculis velit erat eu nulla. Nam vestibulum dolor nec blandit vulputate. Ut eget felis laoreet, semper odio vel, bibendum nisl. Donec malesuada tellus non justo interdum, in semper orci tincidunt."
+    },
+    {
+      "title": "Assignment 5",
+      "identifier": "7e244654-b473-4fb1-9b98-26c074f42a2d",
+      "id": "_123_5",
+      "description": "Nunc egestas est eget urna volutpat, eget aliquam elit varius. Proin facilisis iaculis ante ac dapibus. Donec cursus eros vel ipsum suscipit elementum. Fusce consectetur mi nec ex eleifend fringilla. Etiam aliquam elementum risus, vel tristique quam vehicula et. Nunc vel elit eu felis faucibus dignissim. Vestibulum vitae neque dui."
+    },
+    {
+      "title": "Assignment 6",
+      "identifier": "fa8f1814-7f22-4a08-8a3a-9e0c05fc1385",
+      "id": "_123_6",
+      "description": "In a malesuada nunc. Praesent imperdiet, lacus id sagittis tristique, purus mi efficitur metus, ut hendrerit nisl tortor nec odio. Suspendisse tincidunt neque ut turpis volutpat, et tempus neque suscipit. Sed eu velit vel velit euismod gravida at ut quam. Aliquam elementum consectetur turpis eu semper. Nulla sed consequat mauris. Nulla malesuada ipsum vel nulla posuere, sit amet pharetra ligula gravida. Suspendisse dapibus sit amet justo a aliquet."
+    },
+    {
+      "title": "Assignment 7",
+      "identifier": "3153074d-972d-4c37-ae33-3f4eb7ec2d6e",
+      "id": "_123_7",
+      "description": "Curabitur non sapien varius, pharetra dui at, bibendum nisi. Curabitur facilisis eget orci eu fermentum. Suspendisse non arcu a sapien blandit tristique. Fusce eleifend lacinia sapien, vitae faucibus est luctus eget. Integer venenatis, libero in fermentum elementum, justo nisl sagittis magna, eget rhoncus urna erat eu turpis. Nulla facilisi."
+    },
+    {
+      "title": "Assignment 8",
+      "identifier": "7e146abe-e5d2-49b1-a295-07fca64d5c19",
+      "id": "_123_8",
+      "description": "Cras eget orci convallis odio feugiat iaculis. Integer at purus ut elit facilisis sagittis ac vitae tellus. Cras sit amet ipsum nulla. Etiam semper arcu at scelerisque dignissim. Donec semper libero nec velit laoreet, ac facilisis ex rhoncus. Vivamus eget hendrerit felis, a egestas turpis. Nam ullamcorper tincidunt justo, eget dignissim lorem dapibus ut. Curabitur dapibus, purus quis bibendum bibendum, erat massa euismod odio, quis consequat odio justo nec libero."
+    },
+    {
+      "title": "Assignment 9",
+      "identifier": "0d38e2f8-3bd5-41e5-b0d0-15ae3c89c1ac",
+      "id": "_123_9",
+      "description": "Sed aliquam sit amet enim vitae maximus. Quisque nec elit id velit ultricies tempor vel ac nunc. Nulla in vehicula orci. Nam facilisis nec erat id laoreet. Cras malesuada eros vel odio iaculis, in vestibulum velit luctus. Donec eget tellus vel turpis pharetra venenatis id quis nulla. Nunc sem turpis, rhoncus eu vulputate vel, venenatis eget urna."
+    },
+    {
+      "title": "Assignment 10",
+      "identifier": "1333c585-014c-4dbd-8646-87d3e775ab8f",
+      "id": "_123_10",
+      "description": "Aliquam sit amet felis nunc. Nunc non nulla et tellus blandit egestas ut id lorem. Nulla facilisi. Proin eget consequat erat. Sed eget tellus a quam dapibus iaculis nec eu sem. Integer quis fringilla libero. Sed scelerisque, nibh vitae malesuada malesuada, nisi ipsum facilisis quam, ut vehicula lectus metus eget purus."
+    },
+    {
+      "title": "Assignment 11",
+      "identifier": "1179bcf6-9c8a-4c10-95ce-43b9ef658d80",
+      "id": "_123_11",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam tincidunt facilisis sem, id maximus nisl gravida eget. Duis iaculis cursus purus, quis tincidunt sapien egestas at. In ultricies neque a tortor posuere, et dignissim elit malesuada. Aenean venenatis laoreet odio, vitae volutpat ligula eleifend eu. Fusce tempor mauris vitae lectus fermentum, eget euismod erat tristique. Donec sit amet sapien in risus efficitur faucibus. Sed sem dui, consectetur eu fermentum nec, bibendum at libero. Aenean sit amet dolor a felis tincidunt dictum."
+    },
+    {
+      "title": "Assignment 12",
+      "identifier": "1f0cd31a-134e-4461-92f9-3c983012c095",
+      "id": "_123_12",
+      "description": "Nam tempus, sapien sit amet malesuada fringilla, odio erat suscipit eros, in placerat enim risus vitae lectus. Proin feugiat, nulla vitae pharetra rhoncus, elit arcu volutpat eros, nec consectetur nulla lorem et urna. Fusce ut lorem vel dui egestas cursus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla feugiat euismod diam, vel dictum risus facilisis sit amet. Praesent gravida ullamcorper mi nec fermentum. Nulla sed dolor ut ipsum facilisis consequat vel vel urna."
+    },
+    {
+      "title": "Assignment 13",
+      "identifier": "49911f3f-7c44-4ff6-81c6-0a787fedee1d",
+      "id": "_123_13",
+      "description": "Morbi eget dui consequat, euismod velit et, laoreet ligula. Suspendisse feugiat, purus in finibus sagittis, turpis sapien vehicula nisi, ac feugiat nunc purus eget ex. Nullam venenatis sapien non euismod rhoncus. Nam vel libero sit amet odio maximus aliquet a non magna. Nullam feugiat turpis et luctus dictum. Maecenas feugiat a nunc a placerat. Maecenas sed nulla mi."
+    },
+    {
+      "title": "Assignment 14",
+      "identifier": "6b7e4cda-7c42-4da5-9f8f-8a1f0a110ad0",
+      "id": "_123_14",
+      "description": "Vestibulum non tellus ut est efficitur malesuada in in mi. In eu dolor sed purus volutpat euismod at sit amet elit. Sed nec nibh et neque elementum dignissim eu vel ex. Maecenas non metus nec ipsum pellentesque tincidunt in sit amet arcu. Nam malesuada bibendum lectus eu maximus. Cras volutpat dolor in purus dignissim scelerisque. Pellentesque in metus nec mi fringilla tempus ut nec quam. Nam suscipit odio in dolor varius, et finibus quam ultricies. Nulla facilisi. Cras facilisis a arcu at sagittis."
+    },
+    {
+      "title": "Assignment 15",
+      "identifier": "86f4a0fb-e2e8-46b9-90a3-2ab7c933d8cf",
+      "id": "_123_15",
+      "description": "Donec congue, nisi eu fringilla aliquet, massa metus faucibus tortor, in facilisis erat eros at nisi. Cras venenatis risus quis magna accumsan, vel dapibus nulla posuere. Donec consequat congue libero vitae tincidunt. Sed id odio in tellus bibendum elementum. Etiam quis orci eget elit interdum suscipit quis eu mi. Donec id tellus feugiat, fringilla ipsum eget, feugiat nunc. Etiam vehicula ipsum sapien, eu euismod felis fringilla eget."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.example.com/manifest">
+  <metadata>
+    <title>This is the Title</title>
+    <author>
+      <name>John Doe</name>
+      <email>john.doe@example.com</email>
+    </author>
+    <description>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra eget ipsum quis
+      ultrices. Duis malesuada vel nisl non cursus. Nullam vel nisi vel dolor vulputate
+      consequat vel vitae mauris.
+    </description>
+    <created_at>2023-07-17T12:34:56</created_at>
+    <version>1.0</version>
+    <license>MIT</license>
+  </metadata>
+  <data>
+    <entry>
+      <id>123456</id>
+      <name>Entry 1</name>
+      <value>
+        Sed nec venenatis nisi. Integer ac sapien in elit euismod venenatis. Cras in consequat
+        risus, nec scelerisque odio. Donec bibendum purus nisl, nec pharetra nibh ultricies vel.
+        Sed laoreet aliquam neque, eu consequat orci auctor non. Aenean pellentesque dapibus
+        mauris, a tincidunt ligula efficitur sit amet. Aenean ac turpis vitae ipsum placerat
+        elementum non quis ligula. In hac habitasse platea dictumst.
+      </value>
+    </entry>
+    <entry>
+      <id>789012</id>
+      <name>Entry 2</name>
+      <value>
+        Aliquam eu lacinia ex. Pellentesque convallis justo eu sagittis aliquet. Curabitur
+        feugiat, nisl sit amet euismod facilisis, sapien quam malesuada odio, a pharetra orci nunc
+        a dui. Fusce eu arcu vestibulum, aliquam erat sit amet, mattis nisi. Nulla facilisi.
+        Aenean cursus eget neque nec hendrerit. Curabitur a sapien quis nunc facilisis dapibus eu
+        sit amet tellus.
+      </value>
+    </entry>
+     <entry>
+      <id>789012</id>
+      <name>Entry 2</name>
+      <value>
+        Aliquam eu lacinia ex. Pellentesque convallis justo eu sagittis aliquet. Curabitur
+        feugiat, nisl sit amet euismod facilisis, sapien quam malesuada odio, a pharetra orci nunc
+        a dui. Fusce eu arcu vestibulum, aliquam erat sit amet, mattis nisi. Nulla facilisi.
+        Aenean cursus eget neque nec hendrerit. Curabitur a sapien quis nunc facilisis dapibus eu
+        sit amet tellus.
+      </value>
+    </entry>
+     <entry>
+      <id>789012</id>
+      <name>Entry 2</name>
+      <value>
+        Aliquam eu lacinia ex. Pellentesque convallis justo eu sagittis aliquet. Curabitur
+        feugiat, nisl sit amet euismod facilisis, sapien quam malesuada odio, a pharetra orci nunc
+        a dui. Fusce eu arcu vestibulum, aliquam erat sit amet, mattis nisi. Nulla facilisi.
+        Aenean cursus eget neque nec hendrerit. Curabitur a sapien quis nunc facilisis dapibus eu
+        sit amet tellus.
+      </value>
+    </entry>
+     <entry>
+      <id>789012</id>
+      <name>Entry 2</name>
+      <value>
+        Aliquam eu lacinia ex. Pellentesque convallis justo eu sagittis aliquet. Curabitur
+        feugiat, nisl sit amet euismod facilisis, sapien quam malesuada odio, a pharetra orci nunc
+        a dui. Fusce eu arcu vestibulum, aliquam erat sit amet, mattis nisi. Nulla facilisi.
+        Aenean cursus eget neque nec hendrerit. Curabitur a sapien quis nunc facilisis dapibus eu
+        sit amet tellus.
+      </value>
+    </entry>
+  </data>
+</manifest>
